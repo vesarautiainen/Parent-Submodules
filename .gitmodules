@@ -1,0 +1,3 @@
+[submodule "Child-Submodule"]
+	path = Child-Submodule
+	url = https://github.com/Taysser-Gherfal/Child-Submodule.git
