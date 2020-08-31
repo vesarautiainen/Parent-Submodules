@@ -1,6 +1,3 @@
-[submodule "Child-Submodule"]
-	path = Child-Submodule
-	url = https://github.com/Taysser-Gherfal/Child-Submodule.git
 [submodule "TestUIToolkit"]
 	path = TestUIToolkit
 	url = https://github.com/vesarautiainen/TestUIToolkit
